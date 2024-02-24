@@ -9,15 +9,20 @@ I have profound interest in technology and a dedication to solving complex probl
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Innocent021112/Detection-lab">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Innocent021112/Detection-lab">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/Innocent021112/SOC-automation-lab-"> SOC Automation Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/Innocent021112/SOC-automation-lab-"> SOC Automation Lab</a>|
-| Case Management with TheHive                  | <a href="https://github.com/Innocent021112/SOC-automation-lab-"> SOC Automation Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Innocent021112/SOC-automation-lab-"> SOC Automation Lab</a>|
+• Threats, risks, and vulnerabilities
+• Linux command line
+• SQL, C, C++, JavaScript, html, CSS
+• Incident response
+• Security frameworks and controls
+• SIEM tools
+• Security hardering
+• Python
+• SIEM Implementation and Log Analysis 
+• Network Traffic Monitoring and Attack Detection
+• Security Automation with Shuffle SOAR
+• Incident Response Planning and Execution 
+• Case Management with TheHive
+• Scripting and Automation for Threat Mitigation 
 
 ## Tools
 
